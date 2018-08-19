@@ -1,6 +1,6 @@
 # Se Essa Rua Fosse Minha 
 
-#SOBRE O PROJETO
+SOBRE O PROJETO
 
   A aplicação foi desenvolvida durante o IV Hackfest, ocorrido na cidade de João Pessoa/PB entre os dias 16 e 19 de agosto de 2018 e teve como objetivo propor desenvolvimento de softwares e leis focando em combate à corrupção. A proposta do aplicativo é engajar a população para sinalizar as ruas com problemas de infraestrutura através de um check-in feito na rua. Problemas esses que vão desde um buraco na rua até a falta de pavimentação e saneamento. Os dados das ruas informados pelos usuários do App são comparados com os dados cadastrados e fornecidos pela prefeitura para a análise da veracidade de ambas informações. Graças a esta base de dados é possível verificar se alguma rua está cadastrada como pavimentada no papel, porém nunca recebeu nenhum tipo de pavimentação. Uma das propostas do aplicativo é encaminhar as reclamações/denúncias para os órgãos responsáveis para que eles possam resolver o problema da população, figurando como espaço colaborativo para o controle social e interação dos cidadãos com os órgãos competentes.
 
